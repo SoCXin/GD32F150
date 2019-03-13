@@ -1,29 +1,27 @@
-﻿
-# GD32F130
+﻿# [GD32F130](https://github.com/sochub/GD32F130)
 
-[![sites](docs/mcuyun.png)](http://www.mcuyun.com)
+[![sites](SoC/SoC.png)](http://www.qitas.cn) 
 
-国产芯片的典型代表
+#### 归属：[cortex M3](https://github.com/sochub/CM3)
 
+## [描述](https://github.com/sochub/GD32F130/wiki) 
+
+北京兆易创新STM32F130单片机系列，高性价比产品。
+
+[![sites](docs/GD32F130.jpg)](http://www.qitas.cn) 
+
+## [组成](SoC/) 
+
+#### [文档资料](docs/)
+
+参考设计和数据手册
+
+#### [项目文件](project/)
+
+包括各种开发资源和工程
 
 ---
 
-### docs
+###  [SoC开发平台](http://www.qitas.cn)   
 
-包括必要的文档，包括芯片选型手册
-
-### boot
-
-boot编译的keil工程
-
-### apps
-
-相关应用的keil工程
-
-
----
-
-## 说明
-
-
-
+###  qitas@qitas.cn
