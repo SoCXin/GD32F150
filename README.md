@@ -1,27 +1,27 @@
-﻿# [GD32F130](https://github.com/sochub/GD32F130)
+﻿# [GD32F130](https://github.com/sochub/GD32F130) 
 
-[![sites](SoC/SoC.png)](http://www.qitas.cn) 
+[![sites](http://182.61.61.133/link/resources/SoC.png)](https://stop.stops.top) 
+
+#### [Vendor](https://github.com/sochub/Vendor)：[GigaDevice](https://github.com/sochub/GigaDevice)
+#### [Cortex](https://github.com/sochub/Cortex)：[Cortex M3](https://github.com/sochub/CM3) 
+#### [Level](https://github.com/sochub/Level)：72MHz 
 
 #### 归属：[cortex M3](https://github.com/sochub/CM3)
 
 ## [描述](https://github.com/sochub/GD32F130/wiki) 
 
-北京兆易创新STM32F130单片机系列，高性价比产品。
+[GD32F130](https://github.com/sochub/GD32F130) 
 
 [![sites](docs/GD32F130.jpg)](http://www.qitas.cn) 
 
-## [组成](SoC/) 
 
-#### [文档资料](docs/)
+### [资源收录](https://github.com/sochub/GD32F130)
 
-参考设计和数据手册
+* [文档](docs/)
+* [资源](src/)
 
-#### [项目文件](project/)
+### [选型建议](https://github.com/sochub)
 
-包括各种开发资源和工程
+[GD32F130](https://github.com/sochub/GD32F130) 
 
----
-
-###  [SoC开发平台](http://www.qitas.cn)   
-
-###  qitas@qitas.cn
+##  [SoC资源平台](http://www.qitas.cn)  
