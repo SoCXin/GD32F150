@@ -2,9 +2,7 @@
 
 <workspace>
   <project>
-    <path>$WS_DIR$\HID_IAP.ewp</path>
+    <path>$WS_DIR$\project.ewp</path>
   </project>
   <batchBuild/>
 </workspace>
-
-
