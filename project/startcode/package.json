@@ -1,0 +1,7 @@
+{
+    "name":"GD32F130",
+    "Vendor":"GigaDevice",
+    "description":"GD32F130应用例程",
+    "url":"https://www.gigadevice.com/zh-hans/firmware/gd32f1x0xxxx-firmware-library",
+    "version":"3.1.0"
+}
