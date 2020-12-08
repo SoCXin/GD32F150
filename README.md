@@ -4,7 +4,7 @@
 
 #### [Vendor](https://github.com/SoCXin/Vendor)：[GigaDevice](https://www.gigadevice.com/)
 #### [Core](https://github.com/SoCXin/Cortex)：[Cortex M3](https://github.com/SoCXin/CM3)
-#### [Level](https://github.com/SoCXin/Level)：48MHz
+#### [Level](https://github.com/SoCXin/Level)：72MHz
 ## [GD32F130描述](https://github.com/SoCXin/GD32F130/wiki)
 
 [GD32F130](https://github.com/SoCXin/GD32F130)

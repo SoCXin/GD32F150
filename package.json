@@ -1,7 +1,7 @@
 {
     "name":"GD32F130",
     "Core":"Cortex M3",
-    "Vendor":"wch",
+    "Vendor":"GigaDevice",
     "description":"Cortex M3 GD32F130 MCU",
     "url":"https://github.com/SoCXin/GD32F130",
     "version":"1.0.0"
