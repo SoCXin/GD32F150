@@ -1,26 +1,29 @@
-﻿# [GD32F130](https://github.com/SoCXin/GD32F130)
+﻿# [GD32F150](https://github.com/SoCXin/GD32F150)
 
 [![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
 
-#### [Vendor](https://github.com/SoCXin/Vendor)：[GigaDevice](https://www.gigadevice.com/)
-#### [Core](https://github.com/SoCXin/Cortex)：[Cortex M3](https://github.com/SoCXin/CM3)
-#### [Level](https://github.com/SoCXin/Level)：72MHz
-## [GD32F130描述](https://github.com/SoCXin/GD32F130/wiki)
+* [GigaDevice](https://www.gigadevice.com/zh-hans)：[Cortex-M3](https://github.com/SoCXin/Cortex)
+* [L4R4](https://github.com/SoCXin/Level) ：96 MHz * 1.25 DMIPS/MHz (285CoreMark)
 
-[GD32F130](https://github.com/SoCXin/GD32F130)
+## [简介](https://github.com/SoCXin/GD32F150/wiki)
 
-16/32/64K Flash + 4/8K SRAM 存储空间
+[GD32F150](https://github.com/SoCXin/GD32F150) 系列
 
-[![sites](docs/GD32F130.png)](https://github.com/SoCXin/GD32F130)
 
-##### 关键特性
+[![sites](docs/GD32F150.png)](https://www.gigadevice.com/zh-hans/products/microcontrollers/gd32/arm-cortex-m3/?fwp_processor_type=cortex-m3&fwp_microcontrollers_product_series=gd32f150)
 
-* SPI + USART + IIC
-* 12bit ADC
-* RTC
-* 封装(LQFP64/LQFP48/QFN32/QFN28/TSSOP20)
+### 关键特性
 
-### [资源收录](https://github.com/SoCXin/GD32F130)
+* USB
+
+#### 封装规格
+
+* QFN32/QFN28
+* LQFP64/48
+* TSSOP20
+
+
+### [资源收录](https://github.com/SoCXin)
 
 * [参考文档](docs/)
 * [参考资源](src/)
@@ -28,6 +31,6 @@
 
 ### [选型建议](https://github.com/SoCXin)
 
-[GD32F130](https://github.com/SoCXin/GD32F130)
+[GD32F150](https://github.com/SoCXin/GD32F150)
 
-###  [SoC.芯](http://www.SoC.Xin)
+### [探索芯世界 www.SoC.xin](http://www.SoC.Xin)
